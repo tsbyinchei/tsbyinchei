@@ -47,8 +47,8 @@
 ### ⚡ Thống kê hoạt động
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=1" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true&v=1" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -58,5 +58,5 @@
 ### 🐍 GitHub Contribution Grid Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tsbyinchei/tsbyinchei/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/tsbyinchei/tsbyinchei/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
