@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
   <img src="https://img.shields.io/badge/Pascal-008080?style=for-the-badge&logoColor=white" alt="Pascal" />
-  <img src="https://img.shields.io/badge/C%2B-00599C?style=for-the-badge&logoColor=white" alt="C+" />
 </p>
 
 **Web Development:**
