@@ -6,11 +6,23 @@
 
 ---
 
-### 👨‍💻 Về bản thân mình
+<details open>
+<summary>🇻🇳 Về bản thân mình</summary>
 
 * 🎓 Sinh viên ngành **Kỹ thuật Y sinh** tại Đại học Phenikaa.
 * 💻 Đam mê lập trình, quản trị hệ thống và mày mò phần cứng.
 * 🌐 Khám phá các project cá nhân và Portfolio của mình tại: [![My Portfolio](https://img.shields.io/badge/Website-tsbyin.dev-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white)](https://tsbyin.dev)
+
+</details>
+
+<details>
+<summary>🇬🇧 About me</summary>
+
+* 🎓 Biomedical Engineering student at **Phenikaa University**.
+* 💻 Passionate about programming, system administration, and hardware tinkering.
+* 🌐 Explore my personal projects and portfolio at: [![My Portfolio](https://img.shields.io/badge/Website-tsbyin.dev-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white)](https://tsbyin.dev)
+
+</details>
 
 ### 🛠️ Kỹ năng & Công cụ
 
