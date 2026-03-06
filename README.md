@@ -26,10 +26,10 @@
 ### ⚡ Thống kê hoạt động
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsbyin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsbyin&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsbyinchei&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
