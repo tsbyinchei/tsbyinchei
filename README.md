@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://tsbyin.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Chei!+👋;Biomedical+Engineering;Building+cool+things+with+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Chei!+%F0%9F%91%8B;Biomedical+Engineering;Building+cool+things+with+code" alt="Typing SVG" />
   </a>
 </p>
 
 ---
- 
+
 ### 👨‍💻 Về bản thân mình
 
 * 🎓 Sinh viên ngành **Kỹ thuật Y sinh** tại Đại học Phenikaa.
@@ -47,8 +47,8 @@
 ### ⚡ Thống kê hoạt động
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
