@@ -1,39 +1,35 @@
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>👋 Xin chào, mình là Sỹ (Chei)!</h3>
-      <p>Mình là sinh viên ngành Điện tử Viễn thông tại Đại học Phenikaa.</p>
-      <p>Mình có niềm đam mê lớn với lập trình, quản trị hệ thống và phát triển phần mềm.</p>
-      
-      <h4>📫 Liên hệ với mình:</h4>
-      <p>
-        <a href="https://tsbyin.dev">
-          <img src="https://img.shields.io/badge/Website-tsbyin.dev-8A2BE2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-        </a>
-      </p>
-      
-      <h4>🛠️ Công cụ & Kỹ năng:</h4>
-      <p>
-        <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
-        <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" alt="Arduino" />
-        <img src="https://img.shields.io/badge/LabVIEW-FFCC00?style=flat-square&logo=LabVIEW&logoColor=black" alt="LabVIEW" />
-      </p>
-    </td>
-
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ Thống kê hoạt động</h3>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=tsbyin&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
-      </p>
-      <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-<h3 align="center">📊 Biểu đồ đóng góp</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsbyin&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <a href="https://tsbyin.dev">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Chei!+👋;Electronics+%26+Telecommunications;Building+cool+things+with+code" alt="Typing SVG" />
+  </a>
+</p>
+
+---
+
+### 👨‍💻 Về bản thân mình
+
+* 🎓 Sinh viên ngành Điện tử Viễn thông tại Đại học Phenikaa.
+* 💻 Đam mê lập trình, quản trị hệ thống và mày mò phần cứng.
+* 🌐 Khám phá các project cá nhân và Portfolio của mình tại: [tsbyin.dev](https://tsbyin.dev)
+
+### 🛠️ Kỹ năng & Công cụ
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/LabVIEW-FFCC00?style=for-the-badge&logo=LabVIEW&logoColor=black" alt="LabVIEW" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="Cloudflare" />
+</p>
+
+---
+
+### ⚡ Thống kê hoạt động
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsbyin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsbyin&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsbyin&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
