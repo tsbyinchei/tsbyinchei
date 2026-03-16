@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://tsbyin.dev"><img src="https://img.shields.io/badge/Portfolio-tsbyin.dev-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://tsbyin.dev/CV_NguyenVanTuanSy.pdf"><img src="https://img.shields.io/badge/CV-Download-22c55e?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:chei@tsbyin.dev"><img src="https://img.shields.io/badge/Email-chei@tsbyin.dev-0ea5e9?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://s.tsbyin.dev/linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -16,7 +17,7 @@
 <summary>🇻🇳 Về bản thân mình</summary>
 
 * 🎓 Sinh viên ngành **Kỹ thuật Y sinh** tại Đại học Phenikaa (Khoa Điện - Điện tử).
-* 🖥️ Tự vận hành **Homelab Server 24/7** — triển khai 7 microservices với Docker, FastAPI, PostgreSQL và Cloudflare Zero Trust.
+* 🖥️ Tự vận hành **Homelab Server 24/7** — triển khai 13 microservices với Docker, FastAPI, PostgreSQL và Cloudflare Zero Trust.
 * 💻 Đam mê lập trình, quản trị hệ thống và nghiên cứu kiến trúc hạ tầng CNTT.
 * 🌐 Portfolio & dự án: [tsbyin.dev](https://tsbyin.dev)
 
@@ -26,7 +27,7 @@
 <summary>🇬🇧 About me</summary>
 
 * 🎓 Biomedical Engineering student at **Phenikaa University** (Faculty of Electrical & Electronics Engineering).
-* 🖥️ Self-running a **24/7 Homelab Server** — deploying 7 microservices with Docker, FastAPI, PostgreSQL & Cloudflare Zero Trust.
+* 🖥️ Self-running a **24/7 Homelab Server** — deploying 13 microservices with Docker, FastAPI, PostgreSQL & Cloudflare Zero Trust.
 * 💻 Passionate about programming, system administration, and IT infrastructure architecture.
 * 🌐 Portfolio & projects: [tsbyin.dev](https://tsbyin.dev)
 
@@ -81,17 +82,43 @@
 
 ### 🏠 Homelab — Self-hosted Infrastructure
 
-> Tự vận hành máy chủ cá nhân **Fujitsu Esprimo D556/2** với **7 microservices** hoạt động 24/7, bảo mật theo kiến trúc **Cloudflare Zero Trust** (không mở cổng router).
+> Tự vận hành máy chủ cá nhân với **13 microservices** hoạt động 24/7, toàn bộ hệ thống được đưa ra Internet bảo mật qua kiến trúc **Cloudflare Zero Trust** (không mở cổng router).
 
 | Dịch vụ | Công nghệ | Mô tả |
 |---|---|---|
+| `nas.tsbyin.dev` | Synology DSM | Quản lý lưu trữ tổng, cấu hình & phân quyền hệ thống |
+| `drive.tsbyin.dev`| FileBrowser | Kho lưu trữ cá nhân & Chia sẻ file (Bảo mật OTP) |
+| `dav.tsbyin.dev` | WebDAV Server | Truy cập, ánh xạ ổ đĩa & Đồng bộ file từ xa qua WebDAV |
+| `film.tsbyin.dev` | Jellyfin Media Server | Streaming phim ảnh đa phương tiện nội bộ |
+| `qbit.tsbyin.dev` | qBittorrent | Máy chủ tải torrent (P2P) tốc độ cao |
+| `prow.tsbyin.dev` | Prowlarr | Quản lý Indexer/Tracker cho hệ thống Torrent |
+| `ag.tsbyin.dev` | AdGuard Home | Trình quản lý DNS & Chặn quảng cáo toàn mạng lưới |
+| `ff.tsbyin.dev` | Firefox (KasmVNC) | Trình duyệt Web cách ly ảo hóa chạy trên Docker |
 | `api.tsbyin.dev` | FastAPI + Uvicorn | REST API Backend, Telegram webhook |
-| `u.tsbyin.dev` | Umami + PostgreSQL | Web Analytics tự host |
-| `s.tsbyin.dev` | Shlink | URL shortener & click tracking |
-| `status.tsbyin.dev` | Uptime Kuma | Giám sát tính khả dụng 24/7 |
-| `vscode.tsbyin.dev` | code-server | Cloud IDE truy cập từ xa |
-| `nas.tsbyin.dev` | Synology DSM | Quản lý lưu trữ & phân quyền |
-| `film.tsbyin.dev` | Media Server | Streaming đa phương tiện |
+| `u.tsbyin.dev` | Umami + PostgreSQL | Web Analytics (Theo dõi lưu lượng web tự host) |
+| `s.tsbyin.dev` | Shlink | URL shortener & click tracking (Rút gọn link) |
+| `status.tsbyin.dev` | Uptime Kuma | Giám sát tính khả dụng (Uptime) của toàn hệ thống 24/7 |
+| `ssh.tsbyin.dev` | SSH Gateway | Cổng truy cập Terminal/SSH từ xa qua Web |
+
+---
+
+### 💼 Experience
+
+* **IT Implementation Engineer** - Phu Sy Trading & Services Co., Ltd (05/2020 - Present)
+* Triển khai hạ tầng CNTT cho khối Giáo dục và Chính phủ: LAN/WAN, CCTV, AV systems.
+* Quản trị hệ thống server ảo hóa nội bộ (Proxmox), giám sát mạng và hỗ trợ kỹ thuật từ xa.
+
+### 🏅 Certifications
+
+* **Gemini Certified Educator** - Google for Education (12/2025) - ID: `168489619`
+* **Gemini Certified Uni Student** - Google for Education (12/2025) - ID: `168616862`
+
+### 🚀 Featured Projects
+
+* [System Administration & Monitor Bot](https://github.com/tsbyinchei/SYSTEM-ADMINISTRATION) - Python, Telegram API, automation.
+* [Hardware Monitor Dashboard](https://github.com/tsbyinchei/Hardware-Monitor-Dashboard) - Realtime CPU/RAM/Temperature monitoring.
+* [Arduino Gas & Smoke Detector](https://github.com/tsbyinchei/Arduino-Gas-Detector) - IoT safety system with realtime alerts.
+* [Lixi 2026 (Live Demo)](https://tsbyinchei.github.io/lixi-2026/) - Interactive Lunar New Year web app.
 
 ---
 
