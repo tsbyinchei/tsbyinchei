@@ -17,7 +17,6 @@
 <summary>🇻🇳 Về bản thân mình</summary>
 
 * 🎓 Sinh viên ngành **Kỹ thuật Y sinh** tại Đại học Phenikaa (Khoa Điện - Điện tử).
-* 🖥️ Tự vận hành **Homelab Server 24/7** — triển khai 13 microservices với Docker, FastAPI, PostgreSQL và Cloudflare Zero Trust.
 * 💻 Đam mê lập trình, quản trị hệ thống và nghiên cứu kiến trúc hạ tầng CNTT.
 * 🌐 Portfolio & dự án: [tsbyin.dev](https://tsbyin.dev)
 
@@ -27,7 +26,6 @@
 <summary>🇬🇧 About me</summary>
 
 * 🎓 Biomedical Engineering student at **Phenikaa University** (Faculty of Electrical & Electronics Engineering).
-* 🖥️ Self-running a **24/7 Homelab Server** — deploying 13 microservices with Docker, FastAPI, PostgreSQL & Cloudflare Zero Trust.
 * 💻 Passionate about programming, system administration, and IT infrastructure architecture.
 * 🌐 Portfolio & projects: [tsbyin.dev](https://tsbyin.dev)
 
@@ -77,30 +75,6 @@
   <img src="https://img.shields.io/badge/MATLAB-e20000?style=for-the-badge&logo=mathworks&logoColor=white" alt="Matlab" />
   <img src="https://img.shields.io/badge/PIC--C-00599C?style=for-the-badge&logoColor=white" alt="PIC-C" />
 </p>
-
----
-
-### 🏠 Homelab — Self-hosted Infrastructure
-
-> Tự vận hành máy chủ cá nhân với **13 microservices** hoạt động 24/7, toàn bộ hệ thống được đưa ra Internet bảo mật qua kiến trúc **Cloudflare Zero Trust** (không mở cổng router).
-
-| Dịch vụ | Công nghệ | Mô tả |
-|---|---|---|
-| `nas.tsbyin.dev` | Synology DSM | Quản lý lưu trữ tổng, cấu hình & phân quyền hệ thống |
-| `drive.tsbyin.dev`| FileBrowser | Kho lưu trữ cá nhân & Chia sẻ file (Bảo mật OTP) |
-| `dav.tsbyin.dev` | WebDAV Server | Truy cập, ánh xạ ổ đĩa & Đồng bộ file từ xa qua WebDAV |
-| `film.tsbyin.dev` | Jellyfin Media Server | Streaming phim ảnh đa phương tiện nội bộ |
-| `qbit.tsbyin.dev` | qBittorrent | Máy chủ tải torrent (P2P) tốc độ cao |
-| `prow.tsbyin.dev` | Prowlarr | Quản lý Indexer/Tracker cho hệ thống Torrent |
-| `ag.tsbyin.dev` | AdGuard Home | Trình quản lý DNS & Chặn quảng cáo toàn mạng lưới |
-| `ff.tsbyin.dev` | Firefox (KasmVNC) | Trình duyệt Web cách ly ảo hóa chạy trên Docker |
-| `api.tsbyin.dev` | FastAPI + Uvicorn | REST API Backend, Telegram webhook |
-| `u.tsbyin.dev` | Umami + PostgreSQL | Web Analytics (Theo dõi lưu lượng web tự host) |
-| `s.tsbyin.dev` | Shlink | URL shortener & click tracking (Rút gọn link) |
-| `status.tsbyin.dev` | Uptime Kuma | Giám sát tính khả dụng (Uptime) của toàn hệ thống 24/7 |
-| `ssh.tsbyin.dev` | SSH Gateway | Cổng truy cập Terminal/SSH từ xa qua Web |
-
----
 
 ### 💼 Experience
 
