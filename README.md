@@ -96,6 +96,22 @@
 
 ---
 
+### 📂 Các Dự Án / Projects
+
+Dưới đây là một số dự án nổi bật:
+
+| Tên dự án | Mô tả / Thông tin |
+|---|---|
+| **[SYSTEM-ADMINISTRATION](https://github.com/tsbyinchei/SYSTEM-ADMINISTRATION)** | Hệ thống Monitor V12 - Parental Control Tool |
+| **[quiz](https://github.com/tsbyinchei/quiz)** | Hệ thống thi trắc nghiệm trực tuyến (Online Quiz System) |
+| **[Hardware-Monitor-Dashboard](https://github.com/tsbyinchei/Hardware-Monitor-Dashboard)** | Giao diện Dashboard giám sát phần cứng |
+| **[Arduino-Gas-Detector](https://github.com/tsbyinchei/Arduino-Gas-Detector)** | Hệ thống phát hiện khí gas bằng thiết bị Arduino |
+| **[LMS](https://github.com/tsbyinchei/LMS)** | Ứng dụng quản lý học tập (Learning Management System) |
+| **[tsbyin-cv](https://github.com/tsbyinchei/tsbyin-cv)**, **[tsbyin-app](https://github.com/tsbyinchei/tsbyin-app)** | Các dự án Web App và CV cá nhân |
+| **[lixi-2026](https://github.com/tsbyinchei/lixi-2026)**, **[task](https://github.com/tsbyinchei/task)** | Dự án sự kiện và công cụ quản lý công việc |
+
+---
+
 ### ⚡ Thống kê hoạt động
 
 <p align="center">
