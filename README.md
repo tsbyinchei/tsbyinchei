@@ -98,10 +98,10 @@
 
 ### 🚀 Featured Projects
 
-* [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB). *(Private Repo)*
-* [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities. *(In Dev / Private Repo)*
-* [TsByin Labs](https://tsbyin.dev/labs/) - Experimental playground containing side projects & unreleased technical experiments. *(Private Access / Private Repo)*
-* [TsByin App](https://app.tsbyin.dev) - All-in-One mobile super app (Svelte 5, Capacitor, Cloudflare Workers). *(In Dev / Coming Soon / Private Repo)*
+* [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
+* [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities.
+* **TsByin Labs** - Experimental playground containing side projects & unreleased technical experiments.
+* **TsByin App** - All-in-One mobile super app (Svelte 5, Capacitor, Cloudflare Workers). *(In Dev / Coming Soon)*
 * [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
 * [System Administration & Monitor Bot](https://github.com/tsbyinchei/SYSTEM-ADMINISTRATION) - Python, Telegram API, automation.
 * [Hardware Monitor Dashboard](https://github.com/tsbyinchei/Hardware-Monitor-Dashboard) - Realtime CPU/RAM/Temperature monitoring.
