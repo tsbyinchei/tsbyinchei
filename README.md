@@ -99,7 +99,7 @@
 ### 🚀 Featured Projects
 
 * [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
-* [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities.
+* [TsByin DevBox] - Privacy-first client-side developer workspace with 28+ utilities.
 * **TsByin Labs** - Experimental playground containing side projects & unreleased technical experiments.
 * **TsByin App** - All-in-One mobile super app (Svelte 5, Capacitor, Cloudflare Workers). *(In Dev / Coming Soon)*
 * [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
