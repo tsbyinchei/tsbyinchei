@@ -48,9 +48,12 @@
 **Backend & Database:**
 <p align="left">
   <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/uvicorn-%23222222.svg?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Uvicorn" />
-  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" alt="Pydantic" />
   <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script" />
 </p>
@@ -71,6 +74,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00" alt="Svelte" />
   <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite" />
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=Leaflet&logoColor=white" alt="Leaflet JS" />
 </p>
 
 **Phần cứng & Phần mềm chuyên dụng:**
@@ -94,6 +98,11 @@
 
 ### 🚀 Featured Projects
 
+* [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB). *(Private Repo)*
+* [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities. *(In Dev / Private Repo)*
+* [TsByin Labs](https://tsbyin.dev/labs/) - Experimental playground containing side projects & unreleased technical experiments. *(Private Access / Private Repo)*
+* [TsByin App](https://app.tsbyin.dev) - All-in-One mobile super app (Svelte 5, Capacitor, Cloudflare Workers). *(In Dev / Coming Soon / Private Repo)*
+* [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
 * [System Administration & Monitor Bot](https://github.com/tsbyinchei/SYSTEM-ADMINISTRATION) - Python, Telegram API, automation.
 * [Hardware Monitor Dashboard](https://github.com/tsbyinchei/Hardware-Monitor-Dashboard) - Realtime CPU/RAM/Temperature monitoring.
 * [Arduino Gas & Smoke Detector](https://github.com/tsbyinchei/Arduino-Gas-Detector) - IoT safety system with realtime alerts.
