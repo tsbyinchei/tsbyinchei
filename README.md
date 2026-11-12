@@ -112,6 +112,7 @@
 * [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
 * [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
 * [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities.
+* [TsByin Test (Live Demo)](https://test.tsbyin.dev/) - Online PC hardware diagnostic & testing suite (Keyboard, Mouse, Display, Touch, Sound, Camera, Mic, Network, CPU/GPU stress test). *(Private Repo)*
 * **Homelab: Microservices Self-hosted 24/7** - Synology DSM, Docker Compose, Cloudflare Zero Trust, FastAPI, PostgreSQL.
 * **TsByin Labs** - Experimental playground containing side projects & unreleased technical experiments.
 * **TsByin App** - All-in-One mobile super app (Svelte 5, Capacitor, Cloudflare Workers). *(In Dev / Coming Soon)*
@@ -141,6 +142,7 @@
 | **TsByin 2FA** | Dịch vụ xác thực 2 bước TOTP trên Cloudflare Edge *(Private)* |
 | **[Stella Tran Portfolio](https://stellatran.tsbyin.dev/)** | Portfolio thiết kế thời trang & Lookbook (Live Demo, Private Repo) |
 | **[Stella Tran Store](https://stella-tran.tsbyin.dev/)** | Nền tảng Stylist Online & tư vấn định hình phong cách (Live Demo, Private Repo) |
+| **[TsByin Test](https://test.tsbyin.dev/)** | Bộ công cụ kiểm tra &amp; chẩn đoán phần cứng máy tính trực tiếp trên trình duyệt (Live Demo, Private Repo) |
 
 ---
 
