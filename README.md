@@ -109,8 +109,8 @@
 ### 🚀 Featured Projects
 
 * [Dual-MCU IoMT Wearable System](https://github.com/tsbyinchei/IoMT-ECG-FallDetection) [(Live Demo)](https://iomt.tsbyin.dev) - Dual-MCU IoMT wearable system for real-time ECG (250Hz), body temperature & fall detection with low-latency UDP socket and MATLAB signal analysis.
-* [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
-* [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
+* [TsByin Exam](https://github.com/tsbyinchei/exam) [(Live Demo)](https://exam.tsbyin.dev) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
+* [TsByin Eat (Live Demo)](https://eat.tsbyin.dev) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
 * [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities.
 * [TsByin Test (Live Demo)](https://test.tsbyin.dev/) - Online PC hardware diagnostic & testing suite (Keyboard, Mouse, Display, Touch, Sound, Camera, Mic, Network, CPU/GPU stress test). *(Private Repo)*
 * **Homelab: Microservices Self-hosted 24/7** - Synology DSM, Docker Compose, Cloudflare Zero Trust, FastAPI, PostgreSQL.
