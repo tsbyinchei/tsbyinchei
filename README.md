@@ -5,7 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://tsbyin.dev"><img src="https://img.shields.io/badge/Portfolio-tsbyin.dev-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://tsbyin.dev"><img src="https://img.shields.io/badge/Domain-tsbyin.dev-8A2BE2?style=flat-square&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://tsbyin.io.vn"><img src="https://img.shields.io/badge/Domain-tsbyin.io.vn-3b82f6?style=flat-square&logo=cloudflare&logoColor=white" /></a>
+  <a href="https://tsbyin.com"><img src="https://img.shields.io/badge/Domain-tsbyin.com-6366f1?style=flat-square&logo=internetexplorer&logoColor=white" /></a>
   <a href="https://tsbyin.dev/CV_NguyenVanTuanSy.pdf"><img src="https://img.shields.io/badge/CV-Download-22c55e?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
   <a href="mailto:chei@tsbyin.dev"><img src="https://img.shields.io/badge/Email-chei@tsbyin.dev-0ea5e9?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://s.tsbyin.dev/linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
@@ -18,7 +20,7 @@
 
 * 🎓 Sinh viên ngành **Kỹ thuật Y sinh** tại Đại học Phenikaa (Khoa Điện - Điện tử).
 * 💻 Đam mê lập trình, quản trị hệ thống và nghiên cứu kiến trúc hạ tầng CNTT.
-* 🌐 Portfolio & dự án: [tsbyin.dev](https://tsbyin.dev)
+* 🌐 Ecosystem Domains: [tsbyin.dev](https://tsbyin.dev) · [tsbyin.io.vn](https://tsbyin.io.vn) · [tsbyin.com](https://tsbyin.com)
 
 </details>
 
@@ -27,7 +29,7 @@
 
 * 🎓 Biomedical Engineering student at **Phenikaa University** (Faculty of Electrical & Electronics Engineering).
 * 💻 Passionate about programming, system administration, and IT infrastructure architecture.
-* 🌐 Portfolio & projects: [tsbyin.dev](https://tsbyin.dev)
+* 🌐 Ecosystem Domains: [tsbyin.dev](https://tsbyin.dev) · [tsbyin.io.vn](https://tsbyin.io.vn) · [tsbyin.com](https://tsbyin.com)
 
 </details>
 
@@ -109,8 +111,8 @@
 ### 🚀 Featured Projects
 
 * [Dual-MCU IoMT Wearable System](https://github.com/tsbyinchei/IoMT-ECG-FallDetection) [(Live Demo)](https://iomt.tsbyin.dev) - Dual-MCU IoMT wearable system for real-time ECG (250Hz), body temperature & fall detection with low-latency UDP socket and MATLAB signal analysis.
-* [TsByin Exam](https://github.com/tsbyinchei/exam) [(Live Demo)](https://exam.tsbyin.dev) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
-* [TsByin Eat (Live Demo)](https://eat.tsbyin.dev) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
+* [TsByin Exam / Quiz](https://github.com/tsbyinchei/quiz) [(Live Demo)](https://tsbyin.dev/quiz/) - Online quiz platform with login flow, admin dashboard, and real-time result tracking.
+* [TsByin Eat (Live Demo)](https://tsbyin.dev/eat/frontend/index.html) - Smart food picker & interactive map (Tailwind CSS, Leaflet JS, Express, MongoDB).
 * [TsByin DevBox (Live Demo)](https://tsbyin.dev/devbox.html) - Privacy-first client-side developer workspace with 28+ utilities.
 * [TsByin Test (Live Demo)](https://test.tsbyin.dev/) - Online PC hardware diagnostic & testing suite (Keyboard, Mouse, Display, Touch, Sound, Camera, Mic, Network, CPU/GPU stress test). *(Private Repo)*
 * **Homelab: Microservices Self-hosted 24/7** - Synology DSM, Docker Compose, Cloudflare Zero Trust, FastAPI, PostgreSQL.
@@ -125,6 +127,7 @@
 * **TsByin 2FA — Authenticator Service** - Real-time TOTP service on Cloudflare Edge with WebAuthn/Passkey & centralized verify API. *(Private)*
 * [Stella Tran Portfolio (Live Demo)](https://stellatran.tsbyin.dev/) - Fashion design & wardrobe portfolio with built-in visual lookbook & CMS editor. *(Private Repo)*
 * [Stella Tran Store (Live Demo)](https://stella-tran.tsbyin.dev/) - Personalized online stylist & wardrobe consulting platform (SvelteKit, Tailwind, Firebase, Apps Script). *(Private Repo)*
+* [TsByin Subdomains (Live Demo)](https://sub.tsbyin.io.vn/) [(Docs)](https://doc.sub.tsbyin.io.vn/) [(GitHub)](https://github.com/tsbyinchei/tsbyin-io-vn) - Free subdomain provisioning platform (`*.tsbyin.io.vn`) for developers & homelabers via GitOps, Cloudflare Edge & GitHub Actions.
 
 ---
 
@@ -142,6 +145,7 @@
 | **TsByin 2FA** | Dịch vụ xác thực 2 bước TOTP trên Cloudflare Edge *(Private)* |
 | **[Stella Tran Portfolio](https://stellatran.tsbyin.dev/)** | Portfolio thiết kế thời trang & Lookbook (Live Demo, Private Repo) |
 | **[Stella Tran Store](https://stella-tran.tsbyin.dev/)** | Nền tảng Stylist Online & tư vấn định hình phong cách (Live Demo, Private Repo) |
+| **[TsByin Subdomains](https://sub.tsbyin.io.vn/)** | Nền tảng cấp phát subdomain miễn phí (*.tsbyin.io.vn) qua GitOps & Cloudflare API ([Docs](https://doc.sub.tsbyin.io.vn/), [GitHub](https://github.com/tsbyinchei/tsbyin-io-vn)) |
 | **[TsByin Test](https://test.tsbyin.dev/)** | Bộ công cụ kiểm tra &amp; chẩn đoán phần cứng máy tính trực tiếp trên trình duyệt (Live Demo, Private Repo) |
 
 ---
@@ -151,10 +155,6 @@
 <p align="center">
   <img src="https://github-readme-stats-alpha-sage-25.vercel.app/api?username=tsbyinchei&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats-alpha-sage-25.vercel.app/api/top-langs/?username=tsbyinchei&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tsbyinchei&bg_color=0D1117&color=8A2BE2&line=8A2BE2&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 ### 🐍 GitHub Contribution Grid Snake
